@@ -9,7 +9,6 @@
     ],
     "license": "Apache-2.0",
     "require": {
-        "chinayin/think-installer": "~1.0",
         "chinayin/thinkphp5": "~5.0"
     },
     "autoload": {
